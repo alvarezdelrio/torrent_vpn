@@ -1,4 +1,5 @@
 # torrent_vpn
+https://github.com/qbittorrent/qBittorrent/wiki/How-to-bind-your-vpn-to-prevent-ip-leaks#introduction
 
 Introduction
 Many VPNs offer a 'kill-switch' feature designed to block all internet connections if the VPN connection drops, preventing accidental data leaks like your IP address. However, these kill switches can sometimes be unreliable. To add an additional layer of security, you can configure qBittorrent to bind with your VPN. This ensures data can be transferred if and only if your VPN is currently active, which helps prevent data leaks.
